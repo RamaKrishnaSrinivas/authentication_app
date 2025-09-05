@@ -71,7 +71,8 @@ combined_html = """
     </form>
 </body>
 </html>
-"""dashboard_html="""
+"""
+dashboard_html="""
 <!DOCTYPE html>
 <html lang="en">
   <head>
