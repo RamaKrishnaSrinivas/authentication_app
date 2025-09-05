@@ -32,6 +32,7 @@ combined_html = """
 <html>
 <head>
     <title>Registration_form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body style="text-align: center; align-items:center; align-content-center; padding:500px; margin-top: 100px; background:orange; padding-top: 20px;">
     <h2>Register</h2>
