@@ -1,7 +1,9 @@
-Flask==2.3.3
-Werkzeug==2.3.7
-Flask-Talisman==1.1.1
-Flask-WTF==1.1.1
-WTForms==3.0.1
-bleach==6.1.0
-gunicorn==22.1.0
+Flask
+Werkzeug
+Flask-Talisman
+Flask-WTF
+WTForms
+Flask-Limiter
+bleach
+gunicorn
+cryptography
